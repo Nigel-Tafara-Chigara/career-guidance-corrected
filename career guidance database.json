@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "6759a0b24a34aeeda35980ce"
+  },
+  "program": "HCE",
+  "advice": "you should learn react and all the modules in it ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6759a0ee4a34aeeda35980d0"
+  },
+  "program": "HSE",
+  "advice": "all of you should keep hands on trying to learn how to code \ncode is fun for all so you should learn it and know it \n",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6759a1124a34aeeda35980d2"
+  },
+  "program": "HHE",
+  "advice": "all of you should keep hands on trying to learn how to code \ncode is fun for all so you should learn it and know it \n",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6759a1454a34aeeda35980d4"
+  },
+  "program": "HET",
+  "advice": "go and follow guys like elon musk they will help you to learn a lot in you love ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6759a1474a34aeeda35980d6"
+  },
+  "program": "HET",
+  "advice": "go and follow guys like elon musk they will help you to learn a lot in you love ",
+  "__v": 0
+}]
